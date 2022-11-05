@@ -1,5 +1,7 @@
 # Assembly Quicksort
-For the learning experience, I decided to torture myself my attempting to implement quicksort in GNU Assembly (GAS).
+For the learning experience, I decided to torture myself by attempting to implement quicksort in GNU Assembly (GAS).
+
+Admittedly, this is not the cleanest implementation ever...could use some extra work.
 
 This uses 10 "random" hardcoded integers allocated on the stack and sorts them in ascending order. Below is the output:
 
